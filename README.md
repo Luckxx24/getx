@@ -1,0 +1,2 @@
+# getx
+kode tugas getx
